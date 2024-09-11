@@ -2,10 +2,6 @@
 
 This project briefly shows how the ECS architecture works. 
 
----
-
-what's happening on the scene? 
-
 First-person view, the hero is moving forward, has a movement speed, and can deviate left or right (ProviderTransform) if the player holds the mouse button. 
 When you press the SPACE, a shooting event is triggered through Morpeh.Events. 
 Shooting is accompanied by VFX, SFX, Animation.
