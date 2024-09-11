@@ -1,9 +1,9 @@
 # ECS Morpeh Test
 
-This project briefly shows how the ECS architecture works. 
+This project briefly shows how the [Morpeh ECS](https://github.com/scellecs/morpeh?tab=readme-ov-file#unity-engine) architecture works. 
 
 First-person view, the hero is moving forward, has a movement speed, and can deviate left or right (ProviderTransform) if the player holds the mouse button. 
-When you press the SPACE, a shooting event is triggered through Morpeh.Events. 
+When you press the SPACE, a shooting event is triggered through [Morpeh.Events](https://github.com/codewriter-packages/Morpeh.Events). 
 Shooting is accompanied by VFX, SFX, Animation.
 
 ![image](https://github.com/user-attachments/assets/63d54b8c-5e8a-493a-bb89-7f090e303f74)
