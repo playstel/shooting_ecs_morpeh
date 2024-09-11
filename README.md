@@ -22,15 +22,25 @@ Scene GameObjects are connected to the ECS via providers (ProviderSpeed, Provide
 
 ![image](https://github.com/user-attachments/assets/1fb09116-c83a-42ab-ad5c-dee98d692405)
 
+---
+
 Rifle:
+
 ![image](https://github.com/user-attachments/assets/8f701b7c-877f-4958-b223-d25b91c44dc9)
 
+---
+
 Bullet:
+
 ![image](https://github.com/user-attachments/assets/74a97b17-c16c-4224-91df-611ec567a4af)
 
+---
+
 Input:
+
 ![image](https://github.com/user-attachments/assets/4d7565dd-6c48-4abe-a914-0df27e12f7a0)
 
+---
 
 You can learn more by downloading and running the project in Unity (2023.2.17f1). 
 
