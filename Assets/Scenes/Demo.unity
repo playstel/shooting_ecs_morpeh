@@ -96413,6 +96413,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player_Input
       objectReference: {fileID: 0}
+    - target: {fileID: 1758593453866248882, guid: 9b4b188e6907542ad90917c2b21dc818, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4471394666355287688, guid: 9b4b188e6907542ad90917c2b21dc818, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -96509,6 +96513,10 @@ PrefabInstance:
     - target: {fileID: 7181294384000499543, guid: 31e06360e84cd473faa1da784e7fd216, type: 3}
       propertyPath: m_Name
       value: Player_Rifle
+      objectReference: {fileID: 0}
+    - target: {fileID: 7893475172290702072, guid: 31e06360e84cd473faa1da784e7fd216, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

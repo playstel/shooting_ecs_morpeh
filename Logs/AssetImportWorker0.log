@@ -9,7 +9,7 @@ Running under Rosetta:   NO
 Available memory:        16384 MB
 Using pre-set license
 Pro License: YES
-2024-09-11 01:16:41.856 Unity[21550:468114] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+2024-09-11 13:38:20.475 Unity[9307:179062] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
 
 COMMAND LINE ARGUMENTS:
 /Applications/Unity/Hub/Editor/2023.2.17f1/Unity.app/Contents/MacOS/Unity
@@ -19,19 +19,19 @@ COMMAND LINE ARGUMENTS:
 -name
 AssetImportWorker0
 -projectPath
-/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project
+/Users/Pyanov/Documents/GitHub/ecs_morpeh_test
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58567
+52647
 -job-worker-count
 3
 -background-job-worker-count
 8
 -asset-garbage-collectors
 1
-Successfully changed project path to: /Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project
-/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project
+Successfully changed project path to: /Users/Pyanov/Documents/GitHub/ecs_morpeh_test
+/Users/Pyanov/Documents/GitHub/ecs_morpeh_test
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -66,16 +66,16 @@ Successfully changed project path to: /Users/Pyanov/Documents/GitHub/Morpeh ECS 
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [8685489152] Host "[IP] 192.168.1.4 [Port] 0 [Flags] 2 [Guid] 3523144866 [EditorId] 3523144866 [Version] 1048832 [Id] OSXEditor(0,MacBook-Air-mvideo.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
-Player connection [8685489152] Host "[IP] 192.168.1.4 [Port] 0 [Flags] 2 [Guid] 3523144866 [EditorId] 3523144866 [Version] 1048832 [Id] OSXEditor(0,MacBook-Air-mvideo.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [8508197888] Host "[IP] 192.168.1.4 [Port] 0 [Flags] 2 [Guid] 4073290281 [EditorId] 4073290281 [Version] 1048832 [Id] OSXEditor(0,MacBook-Air-mvideo.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [8508197888] Host "[IP] 192.168.1.4 [Port] 0 [Flags] 2 [Guid] 4073290281 [EditorId] 4073290281 [Version] 1048832 [Id] OSXEditor(0,MacBook-Air-mvideo.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 3
 [Physics::Module] Initialized MultithreadedJobDispatcher with 3 workers.
 Library Redirect Path: Library/
-Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.92 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2023.2.17f1 (396a1c6fe404)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2023.2.17f1/Unity.app/Contents/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Assets
+[Subsystems] Discovering subsystems at path /Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Assets
 GfxDevice: creating device client; kGfxThreadingModeNonThreaded
  preferred device: Apple M1 (high power)
 Metal devices available: 1
@@ -86,7 +86,7 @@ Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2023.2.17f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2023.2.17f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
 Mono config path = '/Applications/Unity/Hub/Editor/2023.2.17f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56550
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56307
 Begin MonoManager ReloadAssembly
 icall.c:1842:
 icall.c:1842:
@@ -103,48 +103,48 @@ Register platform support module: /Applications/Unity/Hub/Editor/2023.2.17f1/Pla
 Register platform support module: /Applications/Unity/Hub/Editor/2023.2.17f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2023.2.17f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2023.2.17f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
-Registered in 0.001413 seconds.
-- Loaded All Assemblies, in  0.267 seconds
+Registered in 0.003962 seconds.
+- Loaded All Assemblies, in  0.296 seconds
 [usbmuxd] Start listen thread
 [usbmuxd] Listen thread started
 [usbmuxd] Send listen message
 Native extension for iOS target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 80 ms
+Android Extension - Scanning For ADB Devices 67 ms
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
 icall.c:1842:
 icall.c:1842:
-- Finished resetting the current domain, in  0.436 seconds
-Domain Reload Profiling: 703ms
-	BeginReloadAssembly (55ms)
+- Finished resetting the current domain, in  0.376 seconds
+Domain Reload Profiling: 673ms
+	BeginReloadAssembly (92ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (29ms)
-	RebuildNativeTypeToScriptingClass (11ms)
-	initialDomainReloadingComplete (34ms)
-	LoadAllAssembliesAndSetupDomain (138ms)
-		LoadAssemblies (54ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (134ms)
+		LoadAssemblies (93ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (136ms)
-			TypeCache.Refresh (135ms)
-				TypeCache.ScanAssembly (125ms)
+		AnalyzeDomain (131ms)
+			TypeCache.Refresh (129ms)
+				TypeCache.ScanAssembly (117ms)
 			BuildScriptInfoCaches (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (437ms)
+	FinalizeReload (376ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (388ms)
+		SetupLoadedEditorAssemblies (335ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (228ms)
+			InitializePlatformSupportModulesInManaged (194ms)
 			SetLoadedEditorAssemblies (3ms)
-			BeforeProcessingInitializeOnLoad (4ms)
-			ProcessInitializeOnLoadAttributes (113ms)
-			ProcessInitializeOnLoadMethodAttributes (40ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (97ms)
+			ProcessInitializeOnLoadMethodAttributes (38ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -165,12 +165,13 @@ icall.c:1842:
 icall.c:1842:
 icall.c:1842:
 icall.c:1842:
-Symbol file LoadedFromMemory doesn't match image /Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-- Loaded All Assemblies, in  0.602 seconds
-Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+- Loaded All Assemblies, in  0.895 seconds
+Refreshing native plugins compatible for Editor in 0.21 ms, found 2 plugins.
 Native extension for iOS target not found
+2024-09-11 13:38:22.764 Unity[9307:179062] [XcodeApplications] Failed to read NSDictionary from path xU]/Contents/Info.plist
 Native extension for Android target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
@@ -196,68 +197,84 @@ Mono: successfully reloaded assembly
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  0.689 seconds
-Domain Reload Profiling: 1291ms
-	BeginReloadAssembly (240ms)
+- Finished resetting the current domain, in  0.565 seconds
+Domain Reload Profiling: 1460ms
+	BeginReloadAssembly (445ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (4ms)
+		DisableScriptedObjects (3ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (35ms)
-	RebuildCommonClasses (30ms)
-	RebuildNativeTypeToScriptingClass (11ms)
-	initialDomainReloadingComplete (25ms)
-	LoadAllAssembliesAndSetupDomain (296ms)
-		LoadAssemblies (165ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (24ms)
+	LoadAllAssembliesAndSetupDomain (388ms)
+		LoadAssemblies (272ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (171ms)
-			TypeCache.Refresh (149ms)
-				TypeCache.ScanAssembly (134ms)
-			BuildScriptInfoCaches (16ms)
+		AnalyzeDomain (167ms)
+			TypeCache.Refresh (148ms)
+				TypeCache.ScanAssembly (128ms)
+			BuildScriptInfoCaches (15ms)
 			ResolveRequiredComponents (3ms)
-	FinalizeReload (689ms)
+	FinalizeReload (565ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (541ms)
+		SetupLoadedEditorAssemblies (430ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (19ms)
-			SetLoadedEditorAssemblies (4ms)
-			BeforeProcessingInitializeOnLoad (32ms)
-			ProcessInitializeOnLoadAttributes (437ms)
-			ProcessInitializeOnLoadMethodAttributes (48ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (29ms)
+			ProcessInitializeOnLoadAttributes (339ms)
+			ProcessInitializeOnLoadMethodAttributes (41ms)
 			AfterProcessingInitializeOnLoad (1ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (4ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
 Launching external process: /Applications/Unity/Hub/Editor/2023.2.17f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 42 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 4518 unused Assets / (0.6 MB). Loaded Objects now: 5105.
-Memory consumption went from 109.6 MB to 109.0 MB.
-Total: 6.083125 ms (FindLiveObjects: 0.421666 ms CreateObjectMapping: 0.157959 ms MarkObjects: 4.749209 ms  DeleteObjects: 0.754000 ms)
+Unloading 4518 unused Assets / (1.0 MB). Loaded Objects now: 5105.
+Memory consumption went from 109.7 MB to 108.7 MB.
+Total: 5.732542 ms (FindLiveObjects: 0.494708 ms CreateObjectMapping: 0.133750 ms MarkObjects: 4.379000 ms  DeleteObjects: 0.724667 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 38575.536920 seconds.
-  path: Assets/Prefabs/Player_Rifle.prefab
-  artifactKey: Guid(31e06360e84cd473faa1da784e7fd216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Player_Rifle.prefab using Guid(31e06360e84cd473faa1da784e7fd216) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ea8538b073b7d0867fb630af7fa0e265') in 0.092123334 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 166
+  Time since last request: 16276.314582 seconds.
+  path: Assets/ECS/Code/Rifle/Components/ComponentRifleMoveInputPosition.cs
+  artifactKey: Guid(3aaa3fe70f72145858aacbfc1bb2d76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ECS/Code/Rifle/Components/ComponentRifleMoveInputPosition.cs using Guid(3aaa3fe70f72145858aacbfc1bb2d76b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'faa59cab59105ea84af61843ac415ae6') in 0.002209625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.196112 seconds.
-  path: Assets/Prefabs/Player_Input.prefab
-  artifactKey: Guid(9b4b188e6907542ad90917c2b21dc818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Player_Input.prefab using Guid(9b4b188e6907542ad90917c2b21dc818) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b7dd785eef8773fabab7329abbf2cb3f') in 0.001546958 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+  Time since last request: 0.409753 seconds.
+  path: Assets/ECS/Code/Rifle/Components/ComponentRifleMoveInputTouch.cs
+  artifactKey: Guid(9242b98395aa3402d9e7e6ce01c14bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ECS/Code/Rifle/Components/ComponentRifleMoveInputTouch.cs using Guid(9242b98395aa3402d9e7e6ce01c14bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b49ea25c130d789bc10ef232189d698c') in 0.000242625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.727064 seconds.
+  path: Assets/ECS/Code/Rifle/Systems/SystemRifleInputReceiver.cs
+  artifactKey: Guid(01b7bf9c92a2d49e5b3fa8bda279784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ECS/Code/Rifle/Systems/SystemRifleInputReceiver.cs using Guid(01b7bf9c92a2d49e5b3fa8bda279784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6529b3d32517514497d280831349933c') in 0.000262208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.095580 seconds.
+  path: Assets/ECS/Code/Rifle/Systems/SystemRifleInputMover.cs
+  artifactKey: Guid(fd96b95318b6146a9bdb3fcc0a980780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ECS/Code/Rifle/Systems/SystemRifleInputMover.cs using Guid(fd96b95318b6146a9bdb3fcc0a980780) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fddc993fb4713e209e249712ae9a2ddd') in 0.000241333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
 ========================================================================
 Received Prepare
 Begin MonoManager ReloadAssembly
-Thread 0x30d767000 may have been prematurely finalized
+Thread 0x32e7c7000 may have been prematurely finalized
 icall.c:1842:
 icall.c:1842:
 icall.c:1842:
@@ -270,10 +287,10 @@ icall.c:1842:
 icall.c:1842:
 icall.c:1842:
 icall.c:1842:
-Symbol file LoadedFromMemory doesn't match image /Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-- Loaded All Assemblies, in  0.440 seconds
+- Loaded All Assemblies, in  0.488 seconds
 Refreshing native plugins compatible for Editor in 0.21 ms, found 2 plugins.
 Native extension for iOS target not found
 Native extension for Android target not found
@@ -300,11 +317,11 @@ Mono: successfully reloaded assembly
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-<b>Compilation Report</b>: 1.30 seconds
+<b>Compilation Report</b>: 1.33 seconds
 ────────────────────────────────────
 ────────────────────────────────────
  <b>Compilation Total:</b> 0.00 seconds
- <b>Assembly Reload Time:</b> 1.30 seconds
+ <b>Assembly Reload Time:</b> 1.33 seconds
 UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
 UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
 UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
@@ -316,35 +333,360 @@ UnityEditor.AssemblyReloadEvents:OnAfterAssemblyReload () (at /Users/bokken/buil
 
 (Filename: ./Library/PackageCache/com.scellecs.morpeh@2eb519ce4a/Unity/Utils/Editor/CompilationTime.cs Line: 75)
 
-- Finished resetting the current domain, in  0.783 seconds
-Domain Reload Profiling: 1225ms
-	BeginReloadAssembly (117ms)
+- Finished resetting the current domain, in  0.763 seconds
+Domain Reload Profiling: 1252ms
+	BeginReloadAssembly (144ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (58ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (15ms)
+	LoadAllAssembliesAndSetupDomain (293ms)
+		LoadAssemblies (227ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (120ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (108ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (763ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (600ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (39ms)
+			ProcessInitializeOnLoadAttributes (467ms)
+			ProcessInitializeOnLoadMethodAttributes (65ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4516 unused Assets / (130.9 KB). Loaded Objects now: 5107.
+Memory consumption went from 115.2 MB to 115.0 MB.
+Total: 8.021625 ms (FindLiveObjects: 0.423666 ms CreateObjectMapping: 0.206833 ms MarkObjects: 6.499209 ms  DeleteObjects: 0.890375 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x17f3ef000 may have been prematurely finalized
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image /Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.458 seconds
+Refreshing native plugins compatible for Editor in 0.19 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+DefineAsset postprocess failed
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Scellecs.Morpeh.Utils.Editor.DefineAsset:Initialize () (at ./Library/PackageCache/com.scellecs.morpeh@2eb519ce4a/Unity/Utils/Editor/DefineAsset.cs:80)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:142)
+
+(Filename: ./Library/PackageCache/com.scellecs.morpeh@2eb519ce4a/Unity/Utils/Editor/DefineAsset.cs Line: 80)
+
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+<b>Compilation Report</b>: 1.25 seconds
+────────────────────────────────────
+────────────────────────────────────
+ <b>Compilation Total:</b> 0.00 seconds
+ <b>Assembly Reload Time:</b> 1.25 seconds
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Scellecs.Morpeh.Utils.Editor.CompilationTime:AssemblyReloadEventsOnAfterAssemblyReload () (at ./Library/PackageCache/com.scellecs.morpeh@2eb519ce4a/Unity/Utils/Editor/CompilationTime.cs:75)
+UnityEditor.AssemblyReloadEvents:OnAfterAssemblyReload () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssemblyReloadEvents.cs:34)
+
+(Filename: ./Library/PackageCache/com.scellecs.morpeh@2eb519ce4a/Unity/Utils/Editor/CompilationTime.cs Line: 75)
+
+- Finished resetting the current domain, in  0.732 seconds
+Domain Reload Profiling: 1191ms
+	BeginReloadAssembly (119ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (55ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (14ms)
+	LoadAllAssembliesAndSetupDomain (288ms)
+		LoadAssemblies (202ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (120ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (108ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (732ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (554ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (42ms)
+			ProcessInitializeOnLoadAttributes (429ms)
+			ProcessInitializeOnLoadMethodAttributes (56ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4516 unused Assets / (317.6 KB). Loaded Objects now: 5107.
+Memory consumption went from 118.9 MB to 118.6 MB.
+Total: 8.576334 ms (FindLiveObjects: 0.443000 ms CreateObjectMapping: 0.347584 ms MarkObjects: 6.817083 ms  DeleteObjects: 0.968042 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x17f74f000 may have been prematurely finalized
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image /Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.449 seconds
+Refreshing native plugins compatible for Editor in 0.21 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+DefineAsset postprocess failed
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Scellecs.Morpeh.Utils.Editor.DefineAsset:Initialize () (at ./Library/PackageCache/com.scellecs.morpeh@2eb519ce4a/Unity/Utils/Editor/DefineAsset.cs:80)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:142)
+
+(Filename: ./Library/PackageCache/com.scellecs.morpeh@2eb519ce4a/Unity/Utils/Editor/DefineAsset.cs Line: 80)
+
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+<b>Compilation Report</b>: 1.28 seconds
+────────────────────────────────────
+────────────────────────────────────
+ <b>Compilation Total:</b> 0.00 seconds
+ <b>Assembly Reload Time:</b> 1.28 seconds
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Scellecs.Morpeh.Utils.Editor.CompilationTime:AssemblyReloadEventsOnAfterAssemblyReload () (at ./Library/PackageCache/com.scellecs.morpeh@2eb519ce4a/Unity/Utils/Editor/CompilationTime.cs:75)
+UnityEditor.AssemblyReloadEvents:OnAfterAssemblyReload () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssemblyReloadEvents.cs:34)
+
+(Filename: ./Library/PackageCache/com.scellecs.morpeh@2eb519ce4a/Unity/Utils/Editor/CompilationTime.cs Line: 75)
+
+- Finished resetting the current domain, in  0.762 seconds
+Domain Reload Profiling: 1215ms
+	BeginReloadAssembly (114ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (2ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (52ms)
-	RebuildCommonClasses (29ms)
-	RebuildNativeTypeToScriptingClass (11ms)
-	initialDomainReloadingComplete (15ms)
-	LoadAllAssembliesAndSetupDomain (269ms)
-		LoadAssemblies (174ms)
+		CreateAndSetChildDomain (51ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (14ms)
+	LoadAllAssembliesAndSetupDomain (287ms)
+		LoadAssemblies (194ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (130ms)
-			TypeCache.Refresh (7ms)
+		AnalyzeDomain (125ms)
+			TypeCache.Refresh (9ms)
 				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (117ms)
+			BuildScriptInfoCaches (112ms)
 			ResolveRequiredComponents (3ms)
-	FinalizeReload (784ms)
+	FinalizeReload (763ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (609ms)
+		SetupLoadedEditorAssemblies (593ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (19ms)
 			SetLoadedEditorAssemblies (4ms)
-			BeforeProcessingInitializeOnLoad (38ms)
-			ProcessInitializeOnLoadAttributes (483ms)
-			ProcessInitializeOnLoadMethodAttributes (65ms)
+			BeforeProcessingInitializeOnLoad (39ms)
+			ProcessInitializeOnLoadAttributes (468ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4516 unused Assets / (298.2 KB). Loaded Objects now: 5107.
+Memory consumption went from 120.8 MB to 120.5 MB.
+Total: 7.912584 ms (FindLiveObjects: 0.465333 ms CreateObjectMapping: 0.307208 ms MarkObjects: 6.283292 ms  DeleteObjects: 0.855417 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 133.559088 seconds.
+  path: Assets/ECS/Code/Bullet/Initializers/InitializerBullet.cs
+  artifactKey: Guid(0c0ab7f6d6e634debaae51e399945cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ECS/Code/Bullet/Initializers/InitializerBullet.cs using Guid(0c0ab7f6d6e634debaae51e399945cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ca34883d37363011b4c2db6a583c5ed5') in 0.002929916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.465992 seconds.
+  path: Assets/ECS/Code/Bullet/Events/EventBulletTrigger.cs
+  artifactKey: Guid(156d3fea24724589be6d97c4ae8d1cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ECS/Code/Bullet/Events/EventBulletTrigger.cs using Guid(156d3fea24724589be6d97c4ae8d1cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6a02be0f023f038e11a53de68c7dbd21') in 0.00036275 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x17f74f000 may have been prematurely finalized
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image /Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.563 seconds
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+DefineAsset postprocess failed
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Scellecs.Morpeh.Utils.Editor.DefineAsset:Initialize () (at ./Library/PackageCache/com.scellecs.morpeh@2eb519ce4a/Unity/Utils/Editor/DefineAsset.cs:80)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:142)
+
+(Filename: ./Library/PackageCache/com.scellecs.morpeh@2eb519ce4a/Unity/Utils/Editor/DefineAsset.cs Line: 80)
+
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+<b>Compilation Report</b>: 1.44 seconds
+────────────────────────────────────
+────────────────────────────────────
+ <b>Compilation Total:</b> 0.00 seconds
+ <b>Assembly Reload Time:</b> 1.44 seconds
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Scellecs.Morpeh.Utils.Editor.CompilationTime:AssemblyReloadEventsOnAfterAssemblyReload () (at ./Library/PackageCache/com.scellecs.morpeh@2eb519ce4a/Unity/Utils/Editor/CompilationTime.cs:75)
+UnityEditor.AssemblyReloadEvents:OnAfterAssemblyReload () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssemblyReloadEvents.cs:34)
+
+(Filename: ./Library/PackageCache/com.scellecs.morpeh@2eb519ce4a/Unity/Utils/Editor/CompilationTime.cs Line: 75)
+
+- Finished resetting the current domain, in  0.763 seconds
+Domain Reload Profiling: 1329ms
+	BeginReloadAssembly (182ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (78ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (15ms)
+	LoadAllAssembliesAndSetupDomain (325ms)
+		LoadAssemblies (232ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (139ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (121ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (763ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (577ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (39ms)
+			ProcessInitializeOnLoadAttributes (450ms)
+			ProcessInitializeOnLoadMethodAttributes (60ms)
 			AfterProcessingInitializeOnLoad (1ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -352,8 +694,111 @@ Domain Reload Profiling: 1225ms
 Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 4516 unused Assets / (221.9 KB). Loaded Objects now: 5114.
-Memory consumption went from 118.1 MB to 117.9 MB.
-Total: 8.257000 ms (FindLiveObjects: 0.499917 ms CreateObjectMapping: 0.396875 ms MarkObjects: 6.361459 ms  DeleteObjects: 0.996833 ms)
+Unloading 4516 unused Assets / (391.6 KB). Loaded Objects now: 5107.
+Memory consumption went from 122.8 MB to 122.4 MB.
+Total: 7.928167 ms (FindLiveObjects: 0.499666 ms CreateObjectMapping: 0.225750 ms MarkObjects: 6.336417 ms  DeleteObjects: 0.865458 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x17f74f000 may have been prematurely finalized
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image /Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.461 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 2 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+DefineAsset postprocess failed
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Scellecs.Morpeh.Utils.Editor.DefineAsset:Initialize () (at ./Library/PackageCache/com.scellecs.morpeh@2eb519ce4a/Unity/Utils/Editor/DefineAsset.cs:80)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:142)
+
+(Filename: ./Library/PackageCache/com.scellecs.morpeh@2eb519ce4a/Unity/Utils/Editor/DefineAsset.cs Line: 80)
+
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+<b>Compilation Report</b>: 1.27 seconds
+────────────────────────────────────
+────────────────────────────────────
+ <b>Compilation Total:</b> 0.00 seconds
+ <b>Assembly Reload Time:</b> 1.27 seconds
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Scellecs.Morpeh.Utils.Editor.CompilationTime:AssemblyReloadEventsOnAfterAssemblyReload () (at ./Library/PackageCache/com.scellecs.morpeh@2eb519ce4a/Unity/Utils/Editor/CompilationTime.cs:75)
+UnityEditor.AssemblyReloadEvents:OnAfterAssemblyReload () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssemblyReloadEvents.cs:34)
+
+(Filename: ./Library/PackageCache/com.scellecs.morpeh@2eb519ce4a/Unity/Utils/Editor/CompilationTime.cs Line: 75)
+
+- Finished resetting the current domain, in  0.734 seconds
+Domain Reload Profiling: 1198ms
+	BeginReloadAssembly (118ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (53ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (14ms)
+	LoadAllAssembliesAndSetupDomain (294ms)
+		LoadAssemblies (205ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (123ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (110ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (735ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (563ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (19ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (36ms)
+			ProcessInitializeOnLoadAttributes (444ms)
+			ProcessInitializeOnLoadMethodAttributes (60ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4516 unused Assets / (130.9 KB). Loaded Objects now: 5107.
+Memory consumption went from 124.6 MB to 124.5 MB.
+Total: 8.471250 ms (FindLiveObjects: 0.349625 ms CreateObjectMapping: 0.167584 ms MarkObjects: 7.322625 ms  DeleteObjects: 0.630417 ms)
 
 Prepare: number of updated asset objects reloaded= 0

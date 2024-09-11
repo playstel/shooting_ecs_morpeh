@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6e2ca528-4a07-aff4-2c63-7d1be7fa1373}</ProjectGuid>
+    <ProjectGuid>{cff3f9df-c145-c46c-4dd6-809cf404a1ec}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -438,16 +438,16 @@
       <HintPath>/Applications/Unity/Hub/Editor/2023.2.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.ext.nunit@2.0.5/net40/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.ext.nunit@2.0.5/net40/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>/Applications/Unity/Hub/Editor/2023.2.17f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -831,124 +831,124 @@
       <HintPath>/Applications/Unity/Hub/Editor/2023.2.17f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll</HintPath>
     </Reference>
     <Reference Include="Scellecs.Morpeh">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Scellecs.Morpeh.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Scellecs.Morpeh.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Addressables.Editor">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.Addressables.Editor.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.Addressables.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
     </Reference>
     <Reference Include="TriInspector.Editor">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/TriInspector.Editor.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/TriInspector.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ResourceManager">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.ResourceManager.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.ResourceManager.dll</HintPath>
     </Reference>
     <Reference Include="Unity.EditorCoroutines.Editor">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ScriptableBuildPipeline.Editor">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.ScriptableBuildPipeline.Editor.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.ScriptableBuildPipeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="TriInspector">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/TriInspector.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/TriInspector.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Localization.Editor">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.Localization.Editor.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.Localization.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ScriptableBuildPipeline">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.ScriptableBuildPipeline.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.ScriptableBuildPipeline.dll</HintPath>
     </Reference>
     <Reference Include="Scellecs.Morpeh.Editor">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Scellecs.Morpeh.Editor.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Scellecs.Morpeh.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Addressables">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.Addressables.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.Addressables.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Localization">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.Localization.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.Localization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="ToonyColorsPro.Demo.Editor.csproj">
-      <Project>{7930abb7-8d90-5aa4-f3e4-b971aad4ba85}</Project>
+      <Project>{d1abf822-8f7b-7fc3-ee08-77b02c7595d3}</Project>
       <Name>ToonyColorsPro.Demo.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="CFXRRuntime.csproj">
-      <Project>{b7c87e55-47e6-612f-f5e8-e745b9a3d6cd}</Project>
+      <Project>{d5a23acc-8cd9-9d68-a8a3-070a002f834f}</Project>
       <Name>CFXRRuntime</Name>
     </ProjectReference>
     <ProjectReference Include="KinoBloom.Runtime.csproj">
-      <Project>{afac7e63-7562-9a35-0213-9e3891d9b0d8}</Project>
+      <Project>{436f426a-b06e-38a2-0cdc-7b37076634c8}</Project>
       <Name>KinoBloom.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="CFXREditor.csproj">
-      <Project>{e77ae4d0-69ff-34fd-0826-b31c6f321315}</Project>
+      <Project>{73c5c2e5-62ae-5e51-3d6b-d0246045c46b}</Project>
       <Name>CFXREditor</Name>
     </ProjectReference>
     <ProjectReference Include="CFXRDemo.csproj">
-      <Project>{c2ea7ee6-fef8-65a2-8b7c-39139f626798}</Project>
+      <Project>{543b854b-97e6-7d97-2d54-2178bea5d602}</Project>
       <Name>CFXRDemo</Name>
     </ProjectReference>
   </ItemGroup>

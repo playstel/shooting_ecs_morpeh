@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{e77ae4d0-69ff-34fd-0826-b31c6f321315}</ProjectGuid>
+    <ProjectGuid>{73c5c2e5-62ae-5e51-3d6b-d0246045c46b}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -400,37 +400,37 @@
       <HintPath>/Applications/Unity/Hub/Editor/2023.2.17f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.ext.nunit@2.0.5/net40/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.ext.nunit@2.0.5/net40/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.collab-proxy@2.5.1/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.collab-proxy@2.5.1/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.collab-proxy@2.5.1/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.collab-proxy@2.5.1/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.collab-proxy@2.5.1/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.collab-proxy@2.5.1/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.collab-proxy@2.5.1/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.collab-proxy@2.5.1/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>/Applications/Unity/Hub/Editor/2023.2.17f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -823,16 +823,16 @@
       <HintPath>/Applications/Unity/Hub/Editor/2023.2.17f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/Facades/netstandard.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>/Users/Pyanov/Documents/GitHub/Morpeh ECS Test Project/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>/Users/Pyanov/Documents/GitHub/ecs_morpeh_test/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
