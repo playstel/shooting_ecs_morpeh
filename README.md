@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c47e06cd-3a4d-4703-a934-0926783b113c)# ECS Morpeh Test
+# ECS Morpeh Test
 
 This project briefly shows how the ECS architecture works. 
 
