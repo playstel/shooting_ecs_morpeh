@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 86b4394f10fb7a340821c5695a6dee5a
+timeCreated: 1536802520
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Characters/PickUps/SM_PickUp_Bag_01.prefab
+  uploadId: 667617

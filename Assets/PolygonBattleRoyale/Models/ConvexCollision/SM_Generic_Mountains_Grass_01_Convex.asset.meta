@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 05a04da5407cce241bf12fffd0b0e5f8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Models/ConvexCollision/SM_Generic_Mountains_Grass_01_Convex.asset
+  uploadId: 667617

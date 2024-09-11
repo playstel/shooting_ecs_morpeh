@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 493c8e798d0ed12468996c1a02e0c4c7
+timeCreated: 1536632012
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Environments/SM_Env_Grass_Circle_02.prefab
+  uploadId: 667617

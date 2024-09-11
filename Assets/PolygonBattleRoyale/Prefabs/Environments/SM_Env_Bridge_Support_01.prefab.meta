@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 419aefbcec9e5084dac11a75d61d329a
+timeCreated: 1536626874
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Environments/SM_Env_Bridge_Support_01.prefab
+  uploadId: 667617

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 18ff8a7a7ca91ff4bab92d116fa797c8
+timeCreated: 1536788707
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Characters/Character_BusinessMale_01.prefab
+  uploadId: 667617

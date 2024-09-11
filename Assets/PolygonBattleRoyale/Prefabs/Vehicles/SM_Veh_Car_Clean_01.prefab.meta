@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2c4daa6156d4958468b11564deb735b6
+timeCreated: 1536626923
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Vehicles/SM_Veh_Car_Clean_01.prefab
+  uploadId: 667617

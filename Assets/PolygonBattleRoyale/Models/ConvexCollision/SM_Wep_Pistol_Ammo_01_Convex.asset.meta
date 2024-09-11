@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7b4cfe5db89de449a9a560bf075354a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Models/ConvexCollision/SM_Wep_Pistol_Ammo_01_Convex.asset
+  uploadId: 667617

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6554507a8851b2e42a6974a5d95e60f4
+timeCreated: 1536626922
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Props/SM_Prop_Propane_Tall_01.prefab
+  uploadId: 667617

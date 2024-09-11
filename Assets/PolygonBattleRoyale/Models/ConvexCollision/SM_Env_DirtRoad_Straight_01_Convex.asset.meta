@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b30d716ad188a954c91b0af423399474
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Models/ConvexCollision/SM_Env_DirtRoad_Straight_01_Convex.asset
+  uploadId: 667617

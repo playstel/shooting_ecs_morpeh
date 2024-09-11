@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9bf9a3efcf08d7e4d95e35f4df077006
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Models/ConvexCollision/SM_Prop_Bandage_02_Convex.asset
+  uploadId: 667617

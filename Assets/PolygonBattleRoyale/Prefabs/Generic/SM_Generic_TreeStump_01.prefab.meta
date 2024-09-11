@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 154b2c1f1fdd06343a26e23086fcc184
+timeCreated: 1536626893
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Generic/SM_Generic_TreeStump_01.prefab
+  uploadId: 667617

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4abb965eef12aa74a8a2d9b95697ad42
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Models/ConvexCollision/SM_Chr_Attach_Pouch_01_Convex.asset
+  uploadId: 667617

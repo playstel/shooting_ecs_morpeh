@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2a383a1b188386438cb141a0793ffa9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Models/ConvexCollision/SM_Wep_Rifle_Assault_02_Convex.asset
+  uploadId: 667617

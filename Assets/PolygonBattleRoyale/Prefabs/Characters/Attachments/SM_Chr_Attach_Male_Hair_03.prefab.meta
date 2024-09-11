@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3ceca72bcb48a4642bb4f845c93e2a19
+timeCreated: 1536626916
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Characters/Attachments/SM_Chr_Attach_Male_Hair_03.prefab
+  uploadId: 667617

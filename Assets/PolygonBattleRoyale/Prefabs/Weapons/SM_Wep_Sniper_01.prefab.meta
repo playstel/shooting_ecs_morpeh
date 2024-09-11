@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 945e4faa3898cfb4d8a0ae7d2a6266ac
+timeCreated: 1536626926
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Weapons/SM_Wep_Sniper_01.prefab
+  uploadId: 667617

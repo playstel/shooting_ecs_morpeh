@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 28889fdb08e94b34da0b2bd8539be2a3
+timeCreated: 1536626923
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Vehicles/SM_Veh_Car_Plate_01.prefab
+  uploadId: 667617

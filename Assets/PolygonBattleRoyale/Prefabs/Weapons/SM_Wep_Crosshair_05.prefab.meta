@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0c31ffc58b2b37440831206ec29610b5
+timeCreated: 1536626919
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Weapons/SM_Wep_Crosshair_05.prefab
+  uploadId: 667617

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa0d8e30070876944a36ecc989c53ded
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Models/ConvexCollision/SM_Bld_WoodenShack_01_Convex.asset
+  uploadId: 667617

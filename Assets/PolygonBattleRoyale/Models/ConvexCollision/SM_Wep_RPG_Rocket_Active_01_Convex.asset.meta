@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dee6458f2abd20645b7e5362a5469c72
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Models/ConvexCollision/SM_Wep_RPG_Rocket_Active_01_Convex.asset
+  uploadId: 667617

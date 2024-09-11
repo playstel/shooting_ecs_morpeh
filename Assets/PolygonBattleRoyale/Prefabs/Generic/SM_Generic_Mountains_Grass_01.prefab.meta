@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 154e34ab1b9d1a647a2e2a001a63f911
+timeCreated: 1536626889
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Generic/SM_Generic_Mountains_Grass_01.prefab
+  uploadId: 667617

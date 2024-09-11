@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 65fe79807b3b4df47a284338d45ef716
+timeCreated: 1536626897
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Props/SM_Prop_BaseWall_Post_01.prefab
+  uploadId: 667617

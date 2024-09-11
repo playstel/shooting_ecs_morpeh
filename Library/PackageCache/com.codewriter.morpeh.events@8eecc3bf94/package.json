@@ -1,0 +1,11 @@
+{
+  "name": "com.codewriter.morpeh.events",
+  "displayName": "Morpeh.Events",
+  "description": "Events for Morpeh ECS",
+  "version": "1.2.0",
+  "unity": "2020.3",
+  "license": "MIT",
+  "author": "CodeWriter (https://github.com/orgs/codewriter-packages)",
+  "dependencies": {},
+  "_fingerprint": "8eecc3bf9440af87ef3c66bf7a1ff210ff361c03"
+}

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 88458a60107da3140a2e173fe916bbfb
+timeCreated: 1517362107
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/FX/Smoke_Small_Light_FX.prefab
+  uploadId: 667617

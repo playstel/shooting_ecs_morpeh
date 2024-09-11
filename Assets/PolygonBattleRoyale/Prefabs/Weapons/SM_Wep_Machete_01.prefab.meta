@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9023a47e211f9384aa25b0a32a008f0f
+timeCreated: 1536626906
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Weapons/SM_Wep_Machete_01.prefab
+  uploadId: 667617

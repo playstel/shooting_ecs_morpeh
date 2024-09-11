@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f21d8450a33a16149b37c935ea82171f
+timeCreated: 1536788040
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Characters/Attachments/SM_Chr_Attach_Pouch_02.prefab
+  uploadId: 667617

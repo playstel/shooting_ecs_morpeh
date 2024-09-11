@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c3bedecc2865b814baeb28c58eef6b63
+timeCreated: 1536626879
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Characters/Attachments/SM_Chr_Attach_Hat_Cupcake_01.prefab
+  uploadId: 667617

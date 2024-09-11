@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 16a173ed6513c8e4aac96133c5a5b295
+timeCreated: 1536626905
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Characters/Attachments/SM_Chr_Attach_Female_Hair_Pigtails_01.prefab
+  uploadId: 667617

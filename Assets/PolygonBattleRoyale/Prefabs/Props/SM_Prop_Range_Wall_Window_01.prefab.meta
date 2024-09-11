@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f5b111fc272684f4084f333a7899a4f7
+timeCreated: 1536626899
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Props/SM_Prop_Range_Wall_Window_01.prefab
+  uploadId: 667617

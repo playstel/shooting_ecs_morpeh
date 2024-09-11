@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 697a94483ffa3e144aea56af30e2ab27
+timeCreated: 1545162581
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Props/SM_Prop_HeadBase_White.prefab
+  uploadId: 667617

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f08b3d8709d945b43b612d7e5b50d7dc
+timeCreated: 1536626902
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Characters/Attachments/SM_Chr_Patch_Leaf_01.prefab
+  uploadId: 667617

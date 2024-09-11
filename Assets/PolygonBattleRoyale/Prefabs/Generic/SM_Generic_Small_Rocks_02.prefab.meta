@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 120a6a7fb0013534780f58affd1309e0
+timeCreated: 1536626892
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Generic/SM_Generic_Small_Rocks_02.prefab
+  uploadId: 667617

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8167120906d87dd47939b9418ebb8138
+timeCreated: 1536707230
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Props/SM_Prop_Padlock_01.prefab
+  uploadId: 667617

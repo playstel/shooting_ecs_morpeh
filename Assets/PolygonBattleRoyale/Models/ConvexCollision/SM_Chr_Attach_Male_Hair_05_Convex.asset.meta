@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 262f41a0432580b428cb5012f033bf0e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Models/ConvexCollision/SM_Chr_Attach_Male_Hair_05_Convex.asset
+  uploadId: 667617

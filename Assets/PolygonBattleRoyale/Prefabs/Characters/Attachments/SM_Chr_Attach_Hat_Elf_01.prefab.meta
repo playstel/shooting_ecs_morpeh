@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7813c71e3d2c0bd4c892b6c09f4c3153
+timeCreated: 1536626880
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Prefabs/Characters/Attachments/SM_Chr_Attach_Hat_Elf_01.prefab
+  uploadId: 667617

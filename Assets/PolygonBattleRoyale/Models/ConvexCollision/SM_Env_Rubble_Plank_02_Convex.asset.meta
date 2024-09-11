@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: efde11a21a0e4754aab34d9737496450
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128513
+  packageName: POLYGON Battle Royale - Low Poly 3D Art by Synty
+  packageVersion: 1.7.1
+  assetPath: Assets/PolygonBattleRoyale/Models/ConvexCollision/SM_Env_Rubble_Plank_02_Convex.asset
+  uploadId: 667617
