@@ -1,4 +1,4 @@
-# ECS Morpeh Test
+# ECS Morpeh Test in Unity
 
 This project briefly shows how the [Morpeh ECS](https://github.com/scellecs/morpeh) works. 
 
